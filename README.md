@@ -20,13 +20,6 @@
   </a>
 </p>
 
----
-
-## 📝 About Me
-
-- 🎓 **Full-Stack Developer** with a focus on Backend (Python FastAPI, aiogram, SQLAlchemy) and DevOps (Docker, CI/CD, Ubuntu Server)
-- 🔧 Developing projects in the fields of **automation**, **Telegram bots**, **web APIs**, and creating mini-projects with Arduino and Raspberry Pi
-- 🌱 Currently learning Kubernetes, cloud services (AWS), and diving deeper into asynchronous Python
 
 ---
 
@@ -91,6 +84,18 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📝 About Me
+
+- 🎓 **Full-Stack Developer** with a focus on Backend (Python FastAPI, aiogram, SQLAlchemy) and DevOps (Docker, CI/CD, Ubuntu Server)
+- 🔧 Developing projects in the fields of **automation**, **Telegram bots**, **web APIs**, and creating mini-projects with Arduino and Raspberry Pi
+- 🌱 Currently learning Kubernetes, cloud services (AWS), and diving deeper into asynchronous Python
+
+---
+
+
 
 ---
 
